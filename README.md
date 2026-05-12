@@ -1,6 +1,6 @@
-## My GitHub Lecture
+# My GitHub Lecture
 
-# Author
+## Author
 
 * Jason
 * Mary
